@@ -2,3 +2,24 @@
 {
     margin: 30px;
 }
+
+#b1
+{
+    position: fixed;
+    top: 75px;
+    left: 152px;
+}
+
+#b2
+{
+    position: fixed;
+    top: 235px;
+    left: 472px;
+}
+
+#b3
+{
+    position: fixed;
+    top: 395px;
+    left: 792px;
+}
