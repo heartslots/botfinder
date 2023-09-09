@@ -13,7 +13,7 @@ function botfinder(){
 
         console.log(mx, my);
     });
-    $(document).on('click', function(mouse){
+    $(document).on('click', function(){
         console.log('click');
     });
 }
