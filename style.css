@@ -14,12 +14,19 @@
 {
     position: fixed;
     top: 235px;
-    left: 472px;
+    left: 152px;
 }
 
 #b3
 {
     position: fixed;
-    top: 395px;
-    left: 792px;
+    top: 235px;
+    left: 472px;
+}
+
+#b4
+{
+    position: fixed;
+    top: 75px;
+    left: 472px;
 }
